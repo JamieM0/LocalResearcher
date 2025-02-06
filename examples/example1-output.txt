@@ -1,0 +1,898 @@
+=== Iteration 1 ===
+Aggregated 35 unique links from this iteration.
+Fetching content from: https://www.researchgate.net/figure/Process-flow-chart-for-general-bread-making_fig2_333448946
+Fetching content from: https://www.researchgate.net/figure/Flow-chart-for-bread-making_fig1_289488476
+Fetching content from: https://www.pinterest.com/pin/131659989084744071/
+Fetching content from: https://www.thefreshloaf.com/node/15336/bread-making-process-handout
+Fetching content from: https://www.gelgoogmachinery.com/blog/commercial-bread-process.html
+Fetching content from: https://www.fob.uk.com/wp-content/uploads/2017/01/FS-7-How-bread-is-made.pdf
+Fetching content from: https://www.slideshare.net/slideshow/bread-manufacturing-process/95683718
+Fetching content from: https://www.hopi-consulting.com/en/le-process-industriel-de-fabrication-du-pain-copy/
+Fetching content from: https://bibliotekanauki.pl/articles/1811858.pdf
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://automationsolutionsllc.com/automation-bakery-bread-automation/
+Fetching content from: https://amfbakery.com/faqs/what-are-some-common-manual-processes-that-can-be-automated-in-a-bakery/
+Fetching content from: https://www.reddit.com/r/CreateMod/comments/1566gxj/i_built_a_simple_automatic_bread_farm_by_myself/
+Fetching content from: https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://patents.google.com/patent/EP3878283B1
+Fetching content from: https://patents.google.com/patent/US11026432B2/en
+Fetching content from: https://patents.justia.com/patent/8091471
+Fetching content from: https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/
+Fetching content from: http://www.homeofslicedbread.com/breadpatent.html
+Fetching content from: https://www.franksco.com/news/historical-patents-sliced-bread/
+Fetching content from: https://www.quora.com/Should-I-patent-or-trademark-my-pastry-business
+Fetching content from: https://www.intelproplaw.com/ip_forum/index.php?topic=14208.0
+Fetching content from: https://bakingbiscuit.com/tag/fritsch-patent/
+Fetching content from: https://portal.unifiedpatents.com/patents/patent/US-9044023-B2
+Fetching content from: https://rademaker.com/our-equipment/bread-line
+Fetching content from: https://www.empirebake.com/industries-served/industrial-bakery-equipment.html
+Fetching content from: https://probake.com/equipment/bread-equipment/
+Fetching content from: https://amfbakery.com/products/soft-bread-buns/high-speed-bread-system/
+Fetching content from: https://genemco.com/blogs/news/the-art-and-science-of-bread-bun-production-on-an-industrial-scale
+Fetching content from: https://www.naegele-inc.com/2019/11/26/tackling-the-challenges-of-producing-artisan-bread-at-an-industrial-scale/
+Fetching content from: https://making.com/bread
+Fetching content from: https://amfbakery.com/
+Fetching content from: https://www.readingbakery.com/resources/industrial-bakery-production-line-equipment.html
+Jina fetch error for https://bibliotekanauki.pl/articles/1811858.pdf: 422 - {"data":null,"cause":{},"code":422,"name":"AssertionFailureError","status":42206,"message":"Failed to goto https://bibliotekanauki.pl/articles/1811858.pdf: Error: net::ERR_ABORTED at https://bibliotekanauki.pl/articles/1811858.pdf","readableMessage":"AssertionFailureError: Failed to goto https://bibliotekanauki.pl/articles/1811858.pdf: Error: net::ERR_ABORTED at https://bibliotekanauki.pl/articles/1811858.pdf"}
+Jina fetch error for https://www.intelproplaw.com/ip_forum/index.php?topic=14208.0: 422 - {"data":null,"cause":{"name":"TimeoutError"},"code":422,"name":"AssertionFailureError","status":42206,"message":"Failed to goto https://www.intelproplaw.com/ip_forum/index.php?topic=14208.0: TimeoutError: Navigation timeout of 30000 ms exceeded","readableMessage":"AssertionFailureError: Failed to goto https://www.intelproplaw.com/ip_forum/index.php?topic=14208.0: TimeoutError: Navigation timeout of 30000 ms exceeded"}
+Page usefulness for https://amfbakery.com/faqs/what-are-some-common-manual-processes-that-can-be-automated-in-a-bakery/: Yes
+Page usefulness for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: No
+Page usefulness for https://www.researchgate.net/figure/Flow-chart-for-bread-making_fig1_289488476: No
+Page usefulness for https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/: No
+Page usefulness for https://www.readingbakery.com/resources/industrial-bakery-production-line-equipment.html: Yes
+Page usefulness for https://making.com/bread: Yes
+Page usefulness for https://www.pinterest.com/pin/131659989084744071/: No
+Page usefulness for https://www.fob.uk.com/wp-content/uploads/2017/01/FS-7-How-bread-is-made.pdf: No
+Page usefulness for https://probake.com/equipment/bread-equipment/: No
+Page usefulness for http://www.homeofslicedbread.com/breadpatent.html: No
+Page usefulness for https://www.researchgate.net/figure/Process-flow-chart-for-general-bread-making_fig2_333448946: No
+Page usefulness for https://www.thefreshloaf.com/node/15336/bread-making-process-handout: No
+Page usefulness for https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries: No
+Error calling Ollama:
+Page usefulness for https://www.franksco.com/news/historical-patents-sliced-bread/: No
+Error calling Ollama:
+Page usefulness for https://rademaker.com/our-equipment/bread-line: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/patent/8091471: No
+Error calling Ollama:
+Page usefulness for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: No
+Error calling Ollama:
+Page usefulness for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: No
+Error calling Ollama:
+Page usefulness for https://www.empirebake.com/industries-served/industrial-bakery-equipment.html: No
+Error calling Ollama:
+Page usefulness for https://www.naegele-inc.com/2019/11/26/tackling-the-challenges-of-producing-artisan-bread-at-an-industrial-scale/: No
+Error calling Ollama:
+Page usefulness for https://portal.unifiedpatents.com/patents/patent/US-9044023-B2: No
+Error calling Ollama:
+Page usefulness for https://www.hopi-consulting.com/en/le-process-industriel-de-fabrication-du-pain-copy/: No
+Error calling Ollama:
+Page usefulness for https://www.slideshare.net/slideshow/bread-manufacturing-process/95683718: No
+Error calling Ollama:
+Page usefulness for https://automationsolutionsllc.com/automation-bakery-bread-automation/: No
+Error calling Ollama:
+Page usefulness for https://genemco.com/blogs/news/the-art-and-science-of-bread-bun-production-on-an-industrial-scale: No
+Error calling Ollama:
+Page usefulness for https://www.gelgoogmachinery.com/blog/commercial-bread-process.html: No
+Error calling Ollama:
+Page usefulness for https://bakingbiscuit.com/tag/fritsch-patent/: No
+Error calling Ollama:
+Page usefulness for https://www.reddit.com/r/CreateMod/comments/1566gxj/i_built_a_simple_automatic_bread_farm_by_myself/: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/products/soft-bread-buns/high-speed-bread-system/: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/EP3878283B1: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/: No
+Error calling Ollama:
+Page usefulness for https://www.quora.com/Should-I-patent-or-trademark-my-pastry-business: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/US11026432B2/en: No
+Error calling Ollama:
+Error calling Ollama:
+Error calling Ollama:
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['bread dough mixing automation patents', 'industrial scale yeast management systems', 'commercial oven temperature control optimization', 'automated bread slicing and packaging systems']
+
+=== Iteration 2 ===
+Aggregated 39 unique links from this iteration.
+Fetching content from: https://patents.google.com/patent/WO1993017561A1/en
+Fetching content from: https://patents.google.com/patent/WO2007142539A1/en
+Fetching content from: http://www.google.com/patents/sitemap/en/Sitemap/A21/A21C/A21C_1_10.html
+Fetching content from: https://patents.justia.com/patent/6095034
+Fetching content from: https://www.freepatentsonline.net/2514301.html
+Fetching content from: https://patents.justia.com/patents-by-us-classification/73/169
+Fetching content from: https://patentimages.storage.googleapis.com/70/e2/0d/79de4d565d26a6/US5947005.pdf
+Fetching content from: https://data.epo.org/publication-server/rest/v1.0/publication-dates/19961016/patents/EP0629115NWB1/document.pdf
+Fetching content from: https://www.bakingbusiness.com/articles/51019-the-future-of-mixing-tech
+Fetching content from: https://www.freepatentsonline.com/5089283.html
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://www.alfalaval.my/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: http://www.steinecker.com/en/products/yeast-management.php
+Fetching content from: https://systems-interface.com/yeast-systems-page/
+Fetching content from: https://ethanolproducer.com/articles/yeast-management-provides-stable-fermentation-performance-7786
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4249010/
+Fetching content from: https://making.com/yeast
+Fetching content from: https://suigenerisbrewing.com/index.php/2022/09/20/optimizing-yeast-starters/
+Fetching content from: https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm
+Fetching content from: https://www.eppendorf.com/us-en/lab-academy/applied-industries/bioprocessing/introduction-to-bioprocessing/microbial-production/yeast-fermentation/
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://generalparts.com/the-importance-of-an-accurate-temperature-in-a-commercial-oven/
+Fetching content from: https://blog.etundra.com/food-service/fixing-commercial-ovens-trouble-maintaining-temperature/
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10393948/
+Fetching content from: https://www.ametekcalibration.com/knowledge/library/application-notes/commercial-oven-temperature-sensor-calibration
+Fetching content from: https://www.ovenind.com/resources/learning/
+Fetching content from: https://www.readingthermal.com/resources/optimization-of-baking-conditions-in-industrial-ovens.html
+Fetching content from: https://www.linkedin.com/advice/0/how-do-you-calibrate-commercial-oven-ensure-nhn7e
+Fetching content from: https://electronics.stackexchange.com/questions/554441/why-do-consumer-ovens-use-thermostats-instead-of-pid-pwm
+Fetching content from: https://www.heattek.com/oven-balancing.html
+Fetching content from: https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOoopKJZtooqVcwB-pweE_p6eF74t1mNFKywaTvsW-HP6XzjaQgmt
+Fetching content from: https://amfbakery.com/equipment/packaging/
+Fetching content from: https://mech-masz.eu/products/bread-slicing-and-packaging-machines/
+Fetching content from: https://amfbakery.com/equipment/packaging/bread-packaging/slicers/
+Fetching content from: https://gasparin.com/en/industrial-lines
+Fetching content from: https://www.ipeka.com/products/loafmaster/
+Fetching content from: https://www.yirenmachine.com/product/bread-slicer-and-automatic-packing-machine/
+Fetching content from: https://www.bizerba.com/us/en/solutions/slicers/automatic-bread-slicer
+Fetching content from: https://hoba.ws/
+Page usefulness for https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm: No
+Page usefulness for https://www.freepatentsonline.net/2514301.html: No
+Page usefulness for https://blog.etundra.com/food-service/fixing-commercial-ovens-trouble-maintaining-temperature/: No
+Page usefulness for https://patents.justia.com/patents-by-us-classification/73/169: No
+Page usefulness for http://www.google.com/patents/sitemap/en/Sitemap/A21/A21C/A21C_1_10.html: Yes
+Page usefulness for https://suigenerisbrewing.com/index.php/2022/09/20/optimizing-yeast-starters/: No
+Page usefulness for https://www.readingthermal.com/resources/optimization-of-baking-conditions-in-industrial-ovens.html: Yes
+Page usefulness for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: Yes
+Page usefulness for https://www.freepatentsonline.com/5089283.html: No
+Page usefulness for https://electronics.stackexchange.com/questions/554441/why-do-consumer-ovens-use-thermostats-instead-of-pid-pwm: No
+Error calling Ollama:
+Page usefulness for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Error calling Ollama:
+Page usefulness for https://gasparin.com/en/industrial-lines: No
+Error calling Ollama:
+Page usefulness for https://making.com/yeast: No
+Error calling Ollama:
+Page usefulness for https://www.bizerba.com/us/en/solutions/slicers/automatic-bread-slicer: No
+Error calling Ollama:
+Page usefulness for https://patentimages.storage.googleapis.com/70/e2/0d/79de4d565d26a6/US5947005.pdf: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/equipment/packaging/bread-packaging/slicers/: No
+Error calling Ollama:
+Page usefulness for https://www.ametekcalibration.com/knowledge/library/application-notes/commercial-oven-temperature-sensor-calibration: No
+Error calling Ollama:
+Page usefulness for https://pmc.ncbi.nlm.nih.gov/articles/PMC10393948/: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/patent/6095034: No
+Error calling Ollama:
+Page usefulness for https://systems-interface.com/yeast-systems-page/: No
+Error calling Ollama:
+Page usefulness for https://generalparts.com/the-importance-of-an-accurate-temperature-in-a-commercial-oven/: No
+Error calling Ollama:
+Page usefulness for https://www.linkedin.com/advice/0/how-do-you-calibrate-commercial-oven-ensure-nhn7e: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/equipment/packaging/: No
+Error calling Ollama:
+Page usefulness for https://pmc.ncbi.nlm.nih.gov/articles/PMC4249010/: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/WO2007142539A1/en: No
+Error calling Ollama:
+Page usefulness for https://www.heattek.com/oven-balancing.html: No
+Error calling Ollama:
+Page usefulness for https://data.epo.org/publication-server/rest/v1.0/publication-dates/19961016/patents/EP0629115NWB1/document.pdf: No
+Error calling Ollama:
+Page usefulness for https://www.alfalaval.my/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Error calling Ollama:
+Page usefulness for https://www.ovenind.com/resources/learning/: No
+Error calling Ollama:
+Page usefulness for https://hoba.ws/: No
+Error calling Ollama:
+Page usefulness for https://www.eppendorf.com/us-en/lab-academy/applied-industries/bioprocessing/introduction-to-bioprocessing/microbial-production/yeast-fermentation/: No
+Error calling Ollama:
+Page usefulness for https://www.ipeka.com/products/loafmaster/: No
+Error calling Ollama:
+Page usefulness for https://www.yirenmachine.com/product/bread-slicer-and-automatic-packing-machine/: No
+Error calling Ollama:
+Page usefulness for https://www.bakingbusiness.com/articles/51019-the-future-of-mixing-tech: No
+Error calling Ollama:
+Page usefulness for https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOoopKJZtooqVcwB-pweE_p6eF74t1mNFKywaTvsW-HP6XzjaQgmt: No
+Error calling Ollama:
+Page usefulness for http://www.steinecker.com/en/products/yeast-management.php: No
+Error calling Ollama:
+Page usefulness for https://mech-masz.eu/products/bread-slicing-and-packaging-machines/: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/WO1993017561A1/en: No
+Error calling Ollama:
+Page usefulness for https://ethanolproducer.com/articles/yeast-management-provides-stable-fermentation-performance-7786: No
+Error calling Ollama:
+Error calling Ollama:
+Error calling Ollama:
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['bread dough mixing automation patents', 'industrial scale yeast management systems', 'commercial oven temperature control optimization']
+
+=== Iteration 3 ===
+Aggregated 30 unique links from this iteration.
+Fetching content from: https://patents.google.com/patent/WO1993017561A1/en
+Fetching content from: https://patents.google.com/patent/WO2007142539A1/en
+Fetching content from: http://www.google.com/patents/sitemap/en/Sitemap/A21/A21C/A21C_1_10.html
+Fetching content from: https://patents.justia.com/patent/6095034
+Fetching content from: https://www.freepatentsonline.net/2514301.html
+Fetching content from: https://patents.justia.com/patents-by-us-classification/73/169
+Fetching content from: https://patentimages.storage.googleapis.com/70/e2/0d/79de4d565d26a6/US5947005.pdf
+Fetching content from: https://data.epo.org/publication-server/rest/v1.0/publication-dates/19961016/patents/EP0629115NWB1/document.pdf
+Fetching content from: https://www.bakingbusiness.com/articles/51019-the-future-of-mixing-tech
+Fetching content from: https://www.freepatentsonline.com/5089283.html
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://www.alfalaval.my/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: http://www.steinecker.com/en/products/yeast-management.php
+Fetching content from: https://systems-interface.com/yeast-systems-page/
+Fetching content from: https://ethanolproducer.com/articles/yeast-management-provides-stable-fermentation-performance-7786
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4249010/
+Fetching content from: https://making.com/yeast
+Fetching content from: https://suigenerisbrewing.com/index.php/2022/09/20/optimizing-yeast-starters/
+Fetching content from: https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm
+Fetching content from: https://www.eppendorf.com/us-en/lab-academy/applied-industries/bioprocessing/introduction-to-bioprocessing/microbial-production/yeast-fermentation/
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://generalparts.com/the-importance-of-an-accurate-temperature-in-a-commercial-oven/
+Fetching content from: https://blog.etundra.com/food-service/fixing-commercial-ovens-trouble-maintaining-temperature/
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10393948/
+Fetching content from: https://www.ametekcalibration.com/knowledge/library/application-notes/commercial-oven-temperature-sensor-calibration
+Fetching content from: https://www.ovenind.com/resources/learning/
+Fetching content from: https://www.readingthermal.com/resources/optimization-of-baking-conditions-in-industrial-ovens.html
+Fetching content from: https://www.linkedin.com/advice/0/how-do-you-calibrate-commercial-oven-ensure-nhn7e
+Fetching content from: https://electronics.stackexchange.com/questions/554441/why-do-consumer-ovens-use-thermostats-instead-of-pid-pwm
+Fetching content from: https://www.heattek.com/oven-balancing.html
+Page usefulness for https://www.ametekcalibration.com/knowledge/library/application-notes/commercial-oven-temperature-sensor-calibration: No
+Page usefulness for https://www.alfalaval.my/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Page usefulness for https://data.epo.org/publication-server/rest/v1.0/publication-dates/19961016/patents/EP0629115NWB1/document.pdf: No
+Page usefulness for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: Yes
+Page usefulness for https://ethanolproducer.com/articles/yeast-management-provides-stable-fermentation-performance-7786: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/patent/6095034: No
+Error calling Ollama:
+Page usefulness for https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm: No
+Error calling Ollama:
+Page usefulness for https://pmc.ncbi.nlm.nih.gov/articles/PMC10393948/: No
+Error calling Ollama:
+Page usefulness for https://generalparts.com/the-importance-of-an-accurate-temperature-in-a-commercial-oven/: No
+Error calling Ollama:
+Page usefulness for https://www.freepatentsonline.com/5089283.html: No
+Error calling Ollama:
+Page usefulness for https://blog.etundra.com/food-service/fixing-commercial-ovens-trouble-maintaining-temperature/: No
+Error calling Ollama:
+Page usefulness for https://suigenerisbrewing.com/index.php/2022/09/20/optimizing-yeast-starters/: No
+Error calling Ollama:
+Page usefulness for https://www.freepatentsonline.net/2514301.html: No
+Error calling Ollama:
+Page usefulness for https://making.com/yeast: No
+Error calling Ollama:
+Page usefulness for https://patentimages.storage.googleapis.com/70/e2/0d/79de4d565d26a6/US5947005.pdf: No
+Error calling Ollama:
+Page usefulness for http://www.steinecker.com/en/products/yeast-management.php: No
+Error calling Ollama:
+Page usefulness for https://www.eppendorf.com/us-en/lab-academy/applied-industries/bioprocessing/introduction-to-bioprocessing/microbial-production/yeast-fermentation/: No
+Error calling Ollama:
+Page usefulness for https://www.readingthermal.com/resources/optimization-of-baking-conditions-in-industrial-ovens.html: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/patents-by-us-classification/73/169: No
+Error calling Ollama:
+Page usefulness for https://www.ovenind.com/resources/learning/: No
+Error calling Ollama:
+Page usefulness for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Error calling Ollama:
+Page usefulness for http://www.google.com/patents/sitemap/en/Sitemap/A21/A21C/A21C_1_10.html: No
+Error calling Ollama:
+Page usefulness for https://electronics.stackexchange.com/questions/554441/why-do-consumer-ovens-use-thermostats-instead-of-pid-pwm: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/WO1993017561A1/en: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/WO2007142539A1/en: No
+Error calling Ollama:
+Page usefulness for https://pmc.ncbi.nlm.nih.gov/articles/PMC4249010/: No
+Error calling Ollama:
+Page usefulness for https://www.bakingbusiness.com/articles/51019-the-future-of-mixing-tech: No
+Error calling Ollama:
+Page usefulness for https://systems-interface.com/yeast-systems-page/: No
+Error calling Ollama:
+Page usefulness for https://www.heattek.com/oven-balancing.html: No
+Error calling Ollama:
+Page usefulness for https://www.linkedin.com/advice/0/how-do-you-calibrate-commercial-oven-ensure-nhn7e: No
+Error calling Ollama:
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['bread manufacturing automation software development', 'industrial scale bread production system design patents', 'yeast management systems for automated bread making', 'commercial oven temperature control optimization algorithms', 'automated bread slicing and packaging systems for industrial scale production']
+
+=== Iteration 4 ===
+Aggregated 48 unique links from this iteration.
+Fetching content from: https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/
+Fetching content from: https://www.batchmaster.com/erp-for-bakeries/
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://www.rockwellautomation.com/en-us/industries/food-beverage/industrial-bakery-automation.html
+Fetching content from: https://soft-gripping.com/solutions/bakery/
+Fetching content from: https://www.rondo-online.com/noram/en/automating-bakery-production
+Fetching content from: https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries
+Fetching content from: https://www.northwindts.com/industries/food-beverage/
+Fetching content from: https://ezsoft-inc.com/how-to-develop-a-strong-automation-plan-for-bakery/
+Fetching content from: https://patents.google.com/patent/US9044021B2/en
+Fetching content from: https://patents.google.com/patent/US20110020492A1/en
+Fetching content from: https://patents.justia.com/patent/4609557
+Fetching content from: https://patents.justia.com/inventor/susan-m-hayes-jacobson
+Fetching content from: https://amfbakery.com/news-insights/amf-bakery-systems-awarded-u-s-patent-for-oven-chain-management-system/
+Fetching content from: https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/
+Fetching content from: https://www.researchgate.net/publication/263214469_In_Search_of_Perfect_Growth_Media_for_Baker's_Yeast_Production_Mapping_Patents
+Fetching content from: https://www.rondo-online.com/noram/en/automatization/industrial-bakery-production-rondo
+Fetching content from: https://www.upcounsel.com/food-patents
+Fetching content from: https://www.shaffermixers.com/design-innovations/
+Fetching content from: https://systems-interface.com/yeast-systems-page/
+Fetching content from: https://automationsolutionsllc.com/automation-bakery-bread-automation/
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://making.com/bread
+Fetching content from: https://www.lesaffre.uk/liquid-yeast-what-interest-for-the-baker/
+Fetching content from: https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html
+Fetching content from: https://bakerpedia.com/processes/proofer-design/
+Fetching content from: https://making.com/yeast
+Fetching content from: https://www.sciencedirect.com/science/article/pii/S277239172300035X
+Fetching content from: https://www.nature.com/articles/s41598-023-39317-w
+Fetching content from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962081
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://www.readingthermal.com/resources/analyzing-oven-performance-in-commercial-bakeries.html
+Fetching content from: https://papers.ssrn.com/sol3/Delivery.cfm/e4a048ea-d4bc-416e-9a4c-dd25843b56e1-MECA.pdf?abstractid=4962081&mirid=1
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S1474667016370951
+Fetching content from: https://www.researchgate.net/publication/310953993_Temperature_Control_of_the_Electrically_Heated_Oven_Production_System_by_Using_Ziegler-Nichols_Method
+Fetching content from: https://opticalengineering.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2685329&downloadType=proceedings%20article&isResultClick=True
+Fetching content from: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.12261
+Fetching content from: https://amfbakery.com/equipment/packaging/bread-packaging/slicers/
+Fetching content from: https://www.yirenmachine.com/product/bread-slicer-and-automatic-packing-machine/
+Fetching content from: https://amfbakery.com/equipment/packaging/
+Fetching content from: https://www.directindustry.com/industrial-manufacturer/industrial-bread-slicer-249087.html
+Fetching content from: https://www.breadpackaging.com/
+Fetching content from: https://us.metoree.com/categories/100929/
+Fetching content from: https://lenexamc.com/bakery-machines/
+Fetching content from: https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOopAjHnxQHNpuxeCPNqJNxChieQT-_WlN3ZujAtXwPWsEAyaw5cN
+Fetching content from: https://emequip.com/bakery-equipment/slicers/
+Page usefulness for https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/: No
+Page usefulness for https://www.rockwellautomation.com/en-us/industries/food-beverage/industrial-bakery-automation.html: No
+Page usefulness for https://systems-interface.com/yeast-systems-page/: No
+Jina fetch error for https://opticalengineering.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2685329&downloadType=proceedings%20article&isResultClick=True: 422 - {"data":null,"cause":{"name":"TimeoutError"},"code":422,"name":"AssertionFailureError","status":42206,"message":"Failed to goto https://opticalengineering.spiedigitallibrary.org/proceedings/Download?urlId=10.1117/12.2685329&downloadType=proceedings%20article&isResultClick=True: TimeoutError: Navigation timeout of 30000 ms exceeded","readableMessage":"AssertionFailureError: Failed to goto https://opticalengineering.spiedigitallibrary.org/proceedings/Download?urlId=10.1117/12.2685329&downloadType=proceedings%20article&isResultClick=True: TimeoutError: Navigation timeout of 30000 ms exceeded"}
+Page usefulness for https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries: No
+Page usefulness for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: Yes
+Page usefulness for https://amfbakery.com/equipment/packaging/bread-packaging/slicers/: Yes
+Page usefulness for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Page usefulness for https://making.com/yeast: Yes
+Page usefulness for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: No
+Page usefulness for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: Yes
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/equipment/packaging/: No
+Error calling Ollama:
+Page usefulness for https://emequip.com/bakery-equipment/slicers/: No
+Error calling Ollama:
+Page usefulness for https://automationsolutionsllc.com/automation-bakery-bread-automation/: No
+Error calling Ollama:
+Page usefulness for https://www.yirenmachine.com/product/bread-slicer-and-automatic-packing-machine/: No
+Error calling Ollama:
+Page usefulness for https://www.batchmaster.com/erp-for-bakeries/: No
+Error calling Ollama:
+Page usefulness for https://www.upcounsel.com/food-patents: No
+Error calling Ollama:
+Page usefulness for https://www.readingthermal.com/resources/analyzing-oven-performance-in-commercial-bakeries.html: No
+Error calling Ollama:
+Page usefulness for https://ezsoft-inc.com/how-to-develop-a-strong-automation-plan-for-bakery/: No
+Error calling Ollama:
+Page usefulness for https://www.directindustry.com/industrial-manufacturer/industrial-bread-slicer-249087.html: No
+Error calling Ollama:
+Page usefulness for https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.12261: No
+Error calling Ollama:
+Page usefulness for https://www.researchgate.net/publication/263214469_In_Search_of_Perfect_Growth_Media_for_Baker's_Yeast_Production_Mapping_Patents: No
+Error calling Ollama:
+Page usefulness for https://www.sciencedirect.com/science/article/pii/S277239172300035X: No
+Error calling Ollama:
+Page usefulness for https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962081: No
+Error calling Ollama:
+Page usefulness for https://www.researchgate.net/publication/310953993_Temperature_Control_of_the_Electrically_Heated_Oven_Production_System_by_Using_Ziegler-Nichols_Method: No
+Error calling Ollama:
+Page usefulness for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: No
+Error calling Ollama:
+Page usefulness for https://www.shaffermixers.com/design-innovations/: No
+Error calling Ollama:
+Page usefulness for https://us.metoree.com/categories/100929/: No
+Error calling Ollama:
+Page usefulness for https://www.nature.com/articles/s41598-023-39317-w: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/news-insights/amf-bakery-systems-awarded-u-s-patent-for-oven-chain-management-system/: No
+Error calling Ollama:
+Page usefulness for https://bakerpedia.com/processes/proofer-design/: No
+Error calling Ollama:
+Page usefulness for https://www.rondo-online.com/noram/en/automatization/industrial-bakery-production-rondo: No
+Error calling Ollama:
+Page usefulness for https://www.rondo-online.com/noram/en/automating-bakery-production: No
+Error calling Ollama:
+Page usefulness for https://making.com/bread: No
+Error calling Ollama:
+Page usefulness for https://www.lesaffre.uk/liquid-yeast-what-interest-for-the-baker/: No
+Error calling Ollama:
+Page usefulness for https://soft-gripping.com/solutions/bakery/: No
+Error calling Ollama:
+Page usefulness for https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/: No
+Error calling Ollama:
+Page usefulness for https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/inventor/susan-m-hayes-jacobson: No
+Error calling Ollama:
+Page usefulness for https://www.northwindts.com/industries/food-beverage/: No
+Error calling Ollama:
+Page usefulness for https://patents.justia.com/patent/4609557: No
+Error calling Ollama:
+Page usefulness for https://www.breadpackaging.com/: No
+Error calling Ollama:
+Page usefulness for https://www.sciencedirect.com/science/article/abs/pii/S1474667016370951: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/US20110020492A1/en: No
+Error calling Ollama:
+Page usefulness for https://lenexamc.com/bakery-machines/: No
+Error calling Ollama:
+Page usefulness for https://patents.google.com/patent/US9044021B2/en: No
+Error calling Ollama:
+Page usefulness for https://papers.ssrn.com/sol3/Delivery.cfm/e4a048ea-d4bc-416e-9a4c-dd25843b56e1-MECA.pdf?abstractid=4962081&mirid=1: No
+Error calling Ollama:
+Page usefulness for https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOopAjHnxQHNpuxeCPNqJNxChieQT-_WlN3ZujAtXwPWsEAyaw5cN: No
+Error calling Ollama:
+Error calling Ollama:
+Error calling Ollama:
+Error calling Ollama:
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['bread manufacturing automation for small scale production', 'yeast management systems for artisanal bread making', 'automated bread slicing and packaging systems for specialty breads', 'industrial scale sourdough starter management systems']
+
+=== Iteration 5 ===
+Aggregated 37 unique links from this iteration.
+Fetching content from: https://www.rondo-online.com/noram/en/automating-bakery-production
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/
+Fetching content from: https://amfbakery.com/
+Fetching content from: https://farhatbakery.com/solutions/pita-bread-line/
+Fetching content from: https://www.alibaba.com/showroom/mini-bread-production-line.html
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/
+Fetching content from: https://omegabake.en.made-in-china.com/product/tFJauEUcjnYh/China-Fully-Automated-High-Speed-Bread-Production-Solutions-up-to-96000-Buns-or-Rolls-Per-Hour.html
+Fetching content from: https://hermary.com/industry-trends/small-automation-big-impacts-robots-give-bread-an-artisanal-touch/
+Fetching content from: https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11299062/how-to-mass-produce-artisanal-bread
+Fetching content from: https://bakerpedia.com/processes/comparison-of-dough-systems/
+Fetching content from: https://www.snackandbakery.com/articles/95050-perfecting-artisan-bread-processing
+Fetching content from: https://www.kingarthurbaking.com/blog/2020/02/05/baking-with-preferments
+Fetching content from: https://www.homebrewtalk.com/threads/using-ale-yeast-sediment-for-bread-baking.698851/
+Fetching content from: https://www.quora.com/What-is-the-importance-of-yeast-in-bread-making
+Fetching content from: https://www.naegele-inc.com/2018/10/31/equipment-overview-a-complete-production-line-for-artisan-bread/
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://www.cerealsgrains.org/publications/plexus/cfw/pastissues/2018/mar-apr/Pages/CFW-63-2-0056.aspx
+Fetching content from: https://bakerpedia.com/processes/artisan-bread/
+Fetching content from: https://amfbakery.com/equipment/packaging/bread-packaging/slicers/
+Fetching content from: https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOooaiT51r9bbZB0WU3S1G7VWkRg0y2l7XABAKLJoRfXKajXuMESx
+Fetching content from: https://gasparin.com/en/industrial-lines
+Fetching content from: https://amfbakery.com/equipment/packaging/
+Fetching content from: https://www.bizerba.com/us/en/solutions/slicers/automatic-bread-slicer
+Fetching content from: https://hoba.ws/
+Fetching content from: https://probake.com/equipment/bread-equipment/bread-slicers/
+Fetching content from: https://lematic.com/products/slicing/
+Fetching content from: https://ubeusa.com/equipment/90-75-slicer-75-2-bagger-combo/
+Fetching content from: https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-
+Fetching content from: https://bakeryinfo.co.uk/ingredients-reports/sourdough-at-scale-how-are-big-players-tapping-the-trend/662897.article
+Fetching content from: https://www.inoxpa.com/products/systems/mixing-and-blending/sourdough-production-plant
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S0168160518306433
+Fetching content from: https://www.reddit.com/r/Sourdough/comments/yd74zs/stop_making_sourdough_starters_more_difficult/
+Fetching content from: https://cooking.stackexchange.com/questions/70992/how-to-grow-sourdough-starter-for-increased-production
+Fetching content from: https://brodandtaylor.com/blogs/recipes/sourdough-starter-from-creation-to-maintenance
+Page usefulness for https://www.bizerba.com/us/en/solutions/slicers/automatic-bread-slicer: No
+Page usefulness for https://hoba.ws/: No
+Page usefulness for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: No
+Page usefulness for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: No
+Page usefulness for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: Yes
+Page usefulness for https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/: No
+Page usefulness for https://www.rondo-online.com/noram/en/automating-bakery-production: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/equipment/packaging/bread-packaging/slicers/: No
+Error calling Ollama:
+Page usefulness for https://amfbakery.com/equipment/packaging/: No
+Error calling Ollama:
+Page usefulness for https://gasparin.com/en/industrial-lines: No
+Error calling Ollama:
+Page usefulness for https://www.snackandbakery.com/articles/95050-perfecting-artisan-bread-processing: No
+Error calling Ollama:
+Page usefulness for https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/: No
+Error calling Ollama:
+Page usefulness for https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-: No
+Error calling Ollama:
+Page usefulness for https://cooking.stackexchange.com/questions/70992/how-to-grow-sourdough-starter-for-increased-production: No
+Error calling Ollama:
+Page usefulness for https://probake.com/equipment/bread-equipment/bread-slicers/: No
+Error calling Ollama:
+Page usefulness for https://lematic.com/products/slicing/: No
+Error calling Ollama:
+Page usefulness for https://bakerpedia.com/processes/comparison-of-dough-systems/: No
+Error calling Ollama:
+Page usefulness for https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11299062/how-to-mass-produce-artisanal-bread: No
+Error calling Ollama:
+Page usefulness for https://omegabake.en.made-in-china.com/product/tFJauEUcjnYh/China-Fully-Automated-High-Speed-Bread-Production-Solutions-up-to-96000-Buns-or-Rolls-Per-Hour.html: No
+Error calling Ollama:
+Page usefulness for https://farhatbakery.com/solutions/pita-bread-line/: No
+Error calling Ollama:
+Page usefulness for https://www.alibaba.com/showroom/mini-bread-production-line.html: No
+Error calling Ollama:
+Page usefulness for https://hermary.com/industry-trends/small-automation-big-impacts-robots-give-bread-an-artisanal-touch/: No
+Error calling Ollama:
+Page usefulness for https://www.reddit.com/r/Sourdough/comments/yd74zs/stop_making_sourdough_starters_more_difficult/: No
+Error calling Ollama:
+Page usefulness for https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/: No
+Error calling Ollama:
+Page usefulness for https://www.homebrewtalk.com/threads/using-ale-yeast-sediment-for-bread-baking.698851/: No
+Error calling Ollama:
+Page usefulness for https://www.sciencedirect.com/science/article/abs/pii/S0168160518306433: No
+Error calling Ollama:
+Page usefulness for https://bakerpedia.com/processes/artisan-bread/: No
+Error calling Ollama:
+Page usefulness for https://www.kingarthurbaking.com/blog/2020/02/05/baking-with-preferments: No
+Error calling Ollama:
+Page usefulness for https://bakeryinfo.co.uk/ingredients-reports/sourdough-at-scale-how-are-big-players-tapping-the-trend/662897.article: No
+Error calling Ollama:
+Page usefulness for https://www.naegele-inc.com/2018/10/31/equipment-overview-a-complete-production-line-for-artisan-bread/: No
+Error calling Ollama:
+Page usefulness for https://grosmac.com/product/automatic-bread-slicer-with-conveyor/?srsltid=AfmBOooaiT51r9bbZB0WU3S1G7VWkRg0y2l7XABAKLJoRfXKajXuMESx: No
+Error calling Ollama:
+Page usefulness for https://www.inoxpa.com/products/systems/mixing-and-blending/sourdough-production-plant: No
+Error calling Ollama:
+Page usefulness for https://brodandtaylor.com/blogs/recipes/sourdough-starter-from-creation-to-maintenance: No
+Error calling Ollama:
+Page usefulness for https://www.quora.com/What-is-the-importance-of-yeast-in-bread-making: No
+Error calling Ollama:
+Page usefulness for https://www.cerealsgrains.org/publications/plexus/cfw/pastissues/2018/mar-apr/Pages/CFW-63-2-0056.aspx: No
+Error calling Ollama:
+Page usefulness for https://ubeusa.com/equipment/90-75-slicer-75-2-bagger-combo/: No
+Error calling Ollama:
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['bread manufacturing automation software development', 'industrial scale bread production system design patents', 'yeast management systems for automated sourdough production']
+
+=== Iteration 6 ===
+Aggregated 30 unique links from this iteration.
+Fetching content from: https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/
+Fetching content from: https://www.batchmaster.com/erp-for-bakeries/
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://www.rockwellautomation.com/en-us/industries/food-beverage/industrial-bakery-automation.html
+Fetching content from: https://soft-gripping.com/solutions/bakery/
+Fetching content from: https://www.rondo-online.com/noram/en/automating-bakery-production
+Fetching content from: https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries
+Fetching content from: https://www.northwindts.com/industries/food-beverage/
+Fetching content from: https://ezsoft-inc.com/how-to-develop-a-strong-automation-plan-for-bakery/
+Fetching content from: https://patents.google.com/patent/US9044021B2/en
+Fetching content from: https://patents.google.com/patent/US20110020492A1/en
+Fetching content from: https://patents.justia.com/patent/4609557
+Fetching content from: https://patents.justia.com/inventor/susan-m-hayes-jacobson
+Fetching content from: https://amfbakery.com/news-insights/amf-bakery-systems-awarded-u-s-patent-for-oven-chain-management-system/
+Fetching content from: https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/
+Fetching content from: https://www.researchgate.net/publication/263214469_In_Search_of_Perfect_Growth_Media_for_Baker's_Yeast_Production_Mapping_Patents
+Fetching content from: https://www.rondo-online.com/noram/en/automatization/industrial-bakery-production-rondo
+Fetching content from: https://www.upcounsel.com/food-patents
+Fetching content from: https://www.shaffermixers.com/design-innovations/
+Fetching content from: https://www.wuk-automation.de/language/en/proucts/pre-dough-and-sourdough-systems/
+Fetching content from: https://www.zeppelin-systems.com/de/en/p/zsd/fermentation-Z_ZIMSER_P97958_00157/
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://www.wuk-automation.de/wp-content/uploads/2018/12/WuK-automation-Broschuere-EN-web-high.pdf
+Fetching content from: https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant
+Fetching content from: https://autobake.in/principle-brands/jac/
+Fetching content from: https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise
+Fetching content from: https://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/
+Fetching content from: https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1976100
+Fetching content from: https://thespoon.tech/sourdough-savior-a-new-machine-keeps-your-starter-fresh-and-alive/
+Jina fetch error for https://www.upcounsel.com/food-patents: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/its-time-to-automate-your-bakery-production-lines/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.wuk-automation.de/language/en/proucts/pre-dough-and-sourdough-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.rondo-online.com/noram/en/automating-bakery-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://amfbakery.com/news-insights/amf-bakery-systems-awarded-u-s-patent-for-oven-chain-management-system/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://howtorobot.com/expert-insight/bakery-robots-embracing-automation-modern-bakeries: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.google.com/patent/US20110020492A1/en: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1976100: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.researchgate.net/publication/263214469_In_Search_of_Perfect_Growth_Media_for_Baker's_Yeast_Production_Mapping_Patents: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/how-to-develop-a-strong-automation-plan-for-bakery/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.smithsonianmag.com/smart-news/take-look-patents-behind-sliced-bread-180963870/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.justia.com/patent/4609557: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.google.com/patent/US9044021B2/en: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://soft-gripping.com/solutions/bakery/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://thespoon.tech/sourdough-savior-a-new-machine-keeps-your-starter-fresh-and-alive/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.justia.com/inventor/susan-m-hayes-jacobson: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.rondo-online.com/noram/en/automatization/industrial-bakery-production-rondo: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.shaffermixers.com/design-innovations/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.northwindts.com/industries/food-beverage/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.wuk-automation.de/wp-content/uploads/2018/12/WuK-automation-Broschuere-EN-web-high.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.zeppelin-systems.com/de/en/p/zsd/fermentation-Z_ZIMSER_P97958_00157/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://autobake.in/principle-brands/jac/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.rockwellautomation.com/en-us/industries/food-beverage/industrial-bakery-automation.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.batchmaster.com/erp-for-bakeries/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['Automating artisanal bread making processes', 'Yeast management systems for small scale production', 'Optimizing commercial oven temperature control algorithms', 'Industrial scale sourdough starter automation patents']
+
+=== Iteration 7 ===
+Aggregated 38 unique links from this iteration.
+Fetching content from: https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://amfbakery.com/faqs/what-are-some-common-manual-processes-that-can-be-automated-in-a-bakery/
+Fetching content from: https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process
+Fetching content from: https://mixing-experts.com/artisan-bread-large-scale/
+Fetching content from: https://ezsoft-inc.com/artisanal-bakery-processing-lines/
+Fetching content from: https://www.bakingbusiness.com/articles/62427-automation-steps-in-the-labor-gap-for-artisan-bread
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/
+Fetching content from: https://www.paulmueller.com/commercial-brewing-equipment/yeast-management-solution
+Fetching content from: https://www.esau-hueber.de/fileadmin/user_upload/downloads/produkte/esh_yeast_propagation_smallscale.pdf
+Fetching content from: https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/
+Fetching content from: https://www.brewersassociation.org/seminars/small-scale-yeast-management/
+Fetching content from: https://www.morebeer.com/articles/Yeast_Management?srsltid=AfmBOopUIpe72fmQOiq4v0JPCj3ED6MJfoLKBIyYdCzqU7TqBo209w-d
+Fetching content from: https://www.themadfermentationist.com/2022/11/small-craft-brewery-yeast-management.html
+Fetching content from: https://www.handtmann.de/fileadmin/user_upload/Geschaeftsbereiche/Anlagentechnik/1._Produkte_Leistungen/Broschueren/handtmann-yeast-management.pdf
+Fetching content from: https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm
+Fetching content from: https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-expression/yeast-protein-expression/pichiapink-yeast-expression-systems.html
+Fetching content from: https://the5thingredient.com/keeping-track-of-your-brewerys-raw-materials-the-beast-that-is-yeast/
+Fetching content from: https://www.sciencedirect.com/science/article/pii/S277239172300035X
+Fetching content from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962081
+Fetching content from: https://www.nature.com/articles/s41598-023-39317-w
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://www.powerblanket.com/blog/maximizing-your-process-heating-performance-with-a-pid-controller/
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S0260877498001423
+Fetching content from: https://papers.ssrn.com/sol3/Delivery.cfm/e4a048ea-d4bc-416e-9a4c-dd25843b56e1-MECA.pdf?abstractid=4962081&mirid=1
+Fetching content from: https://www.despatch.com/pdfs/EngineeringGuide.pdf?srsltid=AfmBOorvKCbK7B0pLUhU7JC4oRKsZ_C8UCGmaCQqDCQMOIuuKJT4MI9V
+Fetching content from: https://blog.isa.org/optimize-closed-loop-control-better-understanding-pid-equation
+Fetching content from: https://patents.google.com/patent/WO2023018638A1/en
+Fetching content from: https://patents.google.com/patent/US4140800A/en
+Fetching content from: https://patents.justia.com/patent/4034125
+Fetching content from: https://www.scientificamerican.com/article/making-bread-by-machineryberdans-pa/
+Fetching content from: https://www.researchgate.net/publication/367197901_Toward_Sourdough_Microbiome_Data_A_Review_of_Science_and_Patents
+Fetching content from: https://patents.justia.com/patents-by-us-classification/73/169
+Fetching content from: https://www.sciencedirect.com/topics/food-science/sourdough-bread
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC9858420/
+Fetching content from: https://www.goldmedalbakery.com/blog/when-was-sliced-bread-invented/
+Fetching content from: https://ftp.zew.de/pub/zew-docs/gutachten/reportEPOARP_KOFZEW2019.pdf
+Jina fetch error for https://amfbakery.com/faqs/what-are-some-common-manual-processes-that-can-be-automated-in-a-bakery/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.powerblanket.com/blog/maximizing-your-process-heating-performance-with-a-pid-controller/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/pii/S277239172300035X: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962081: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.brewersassociation.org/seminars/small-scale-yeast-management/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/abs/pii/S0260877498001423: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://papers.ssrn.com/sol3/Delivery.cfm/e4a048ea-d4bc-416e-9a4c-dd25843b56e1-MECA.pdf?abstractid=4962081&mirid=1: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/artisanal-bakery-processing-lines/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.paulmueller.com/commercial-brewing-equipment/yeast-management-solution: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://pmc.ncbi.nlm.nih.gov/articles/PMC9858420/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/topics/food-science/sourdough-bread: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.scientificamerican.com/article/making-bread-by-machineryberdans-pa/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.despatch.com/pdfs/EngineeringGuide.pdf?srsltid=AfmBOorvKCbK7B0pLUhU7JC4oRKsZ_C8UCGmaCQqDCQMOIuuKJT4MI9V: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.justia.com/patents-by-us-classification/73/169: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.goldmedalbakery.com/blog/when-was-sliced-bread-invented/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.themadfermentationist.com/2022/11/small-craft-brewery-yeast-management.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://blog.isa.org/optimize-closed-loop-control-better-understanding-pid-equation: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/62427-automation-steps-in-the-labor-gap-for-artisan-bread: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.alfalaval.com/products/process-solutions/brewery-solutions/yeast-management-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-expression/yeast-protein-expression/pichiapink-yeast-expression-systems.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.morebeer.com/articles/Yeast_Management?srsltid=AfmBOopUIpe72fmQOiq4v0JPCj3ED6MJfoLKBIyYdCzqU7TqBo209w-d: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.handtmann.de/fileadmin/user_upload/Geschaeftsbereiche/Anlagentechnik/1._Produkte_Leistungen/Broschueren/handtmann-yeast-management.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.google.com/patent/WO2023018638A1/en: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.beer-brewing.com/beer_brewing/beer_brewing_brewers_yeast/yeast_management.htm: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.nature.com/articles/s41598-023-39317-w: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.google.com/patent/US4140800A/en: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://patents.justia.com/patent/4034125: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.researchgate.net/publication/367197901_Toward_Sourdough_Microbiome_Data_A_Review_of_Science_and_Patents: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/artisan-bread-large-scale/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://the5thingredient.com/keeping-track-of-your-brewerys-raw-materials-the-beast-that-is-yeast/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.esau-hueber.de/fileadmin/user_upload/downloads/produkte/esh_yeast_propagation_smallscale.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ftp.zew.de/pub/zew-docs/gutachten/reportEPOARP_KOFZEW2019.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['Automating artisanal bread making processes for industrial scale production', 'Yeast management systems for automated sourdough production in commercial bakeries', 'Optimizing commercial oven temperature control algorithms for large-scale bread baking', 'Industrial scale sourdough starter automation and yeast management integration', 'Bread manufacturing automation software development for small to medium-sized bakeries']
+
+=== Iteration 8 ===
+Aggregated 46 unique links from this iteration.
+Fetching content from: https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/
+Fetching content from: https://mixing-experts.com/artisan-bread-large-scale/
+Fetching content from: https://www.supermarketperimeter.com/articles/8750-baking-industry-leaders-share-how-to-make-artisan-bread-to-scale
+Fetching content from: https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://ezsoft-inc.com/artisanal-bakery-processing-lines/
+Fetching content from: https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process
+Fetching content from: https://amfbakery.com/news-insights/scaling-bakery-production-with-automated-mixing/
+Fetching content from: https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant
+Fetching content from: https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/
+Fetching content from: https://www.youtube.com/watch?v=6xJM4a0ruig
+Fetching content from: https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html
+Fetching content from: https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/
+Fetching content from: https://www.thefreshloaf.com/node/44659/planning-production-software
+Fetching content from: https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/
+Fetching content from: https://www.readingthermal.com/resources/regulating-temperature-and-air-circulation-in-large-scale-ovens.html
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S0306261913001426
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://pubs.aip.org/aip/acp/article/2581/1/030007/2894179/Optimization-of-baking-parameters-in-producing
+Fetching content from: https://www.nature.com/articles/s41598-023-39317-w
+Fetching content from: https://www.researchgate.net/publication/248514586_Optimisation_of_the_temperature_profile_in_bread_baking
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S0260877406007229
+Fetching content from: https://hygprogramming.wordpress.com/industrial-applications/bread-baking-oven-design-optimisation/
+Fetching content from: https://www.researchgate.net/publication/271883973_Optimisation_of_the_energy_efficiency_of_bread-baking_ovens_using_a_combined_experimental_and_computational_approach
+Fetching content from: https://theambitgroup.co.uk/2023/07/31/artisan-bread-trends/
+Fetching content from: https://www.inoxpausa.com/company/news/industrial-sourdough-plants
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S0168160523003185
+Fetching content from: https://www.bakingbusiness.com/articles/58159-pro-tip-learn-how-to-implement-a-sourdough-fermentation-process
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/
+Fetching content from: https://www.mdpi.com/2076-3417/14/11/4955
+Fetching content from: https://www.sciencedirect.com/science/article/abs/pii/S221242922300723X
+Fetching content from: https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-
+Fetching content from: https://www.bakeryandsnacks.com/Article/2024/03/05/how-understanding-the-complexities-of-a-sourdough-starter-could-expand-a-baker-s-portfolio-and-benefit-gluten-intolerant-consumers/
+Fetching content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10559884/
+Fetching content from: https://www.batchmaster.com/erp-for-bakeries/
+Fetching content from: https://www.apecusa.com/blog/bringing-automated-processing-to-the-baking-industry/
+Fetching content from: https://soft-gripping.com/solutions/bakery/
+Fetching content from: https://ezsoft-inc.com/how-automation-in-bakery-industry-is-changing/
+Fetching content from: https://www.rondo-online.com/noram/en/automating-bakery-production
+Fetching content from: https://www.baking.ca/automation-for-all-bakeries/
+Fetching content from: https://www.bakeryandsnacks.com/Article/2024/02/15/Toasting-AI-bread-artificial-intelligence-in-the-bakery-industry/
+Fetching content from: https://www.adalo.com/posts/5-essential-software-tools-for-your-bakery
+Fetching content from: https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11307105/automation-makes-inroads-into-baking
+Jina fetch error for https://mixing-experts.com/artisan-bread-large-scale/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.supermarketperimeter.com/articles/8750-baking-industry-leaders-share-how-to-make-artisan-bread-to-scale: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.thefreshloaf.com/node/44659/planning-production-software: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.youtube.com/watch?v=6xJM4a0ruig: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/artisanal-bakery-processing-lines/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/how-automation-in-bakery-industry-is-changing/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://soft-gripping.com/solutions/bakery/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://hygprogramming.wordpress.com/industrial-applications/bread-baking-oven-design-optimisation/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.baking.ca/automation-for-all-bakeries/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.apecusa.com/blog/bringing-automated-processing-to-the-baking-industry/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakeryandsnacks.com/Article/2024/02/15/Toasting-AI-bread-artificial-intelligence-in-the-bakery-industry/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11307105/automation-makes-inroads-into-baking: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.batchmaster.com/erp-for-bakeries/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.mdpi.com/2076-3417/14/11/4955: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://pmc.ncbi.nlm.nih.gov/articles/PMC10559884/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.researchgate.net/publication/248514586_Optimisation_of_the_temperature_profile_in_bread_baking: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.inoxpausa.com/company/news/industrial-sourdough-plants: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/abs/pii/S0260877406007229: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/abs/pii/S221242922300723X: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://theambitgroup.co.uk/2023/07/31/artisan-bread-trends/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/abs/pii/S0306261913001426: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://amfbakery.com/news-insights/scaling-bakery-production-with-automated-mixing/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.sciencedirect.com/science/article/abs/pii/S0168160523003185: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.researchgate.net/publication/271883973_Optimisation_of_the_energy_efficiency_of_bread-baking_ovens_using_a_combined_experimental_and_computational_approach: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakeryandsnacks.com/Article/2024/03/05/how-understanding-the-complexities-of-a-sourdough-starter-could-expand-a-baker-s-portfolio-and-benefit-gluten-intolerant-consumers/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.readingthermal.com/resources/regulating-temperature-and-air-circulation-in-large-scale-ovens.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.nature.com/articles/s41598-023-39317-w: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.adalo.com/posts/5-essential-software-tools-for-your-bakery: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://pubs.aip.org/aip/acp/article/2581/1/030007/2894179/Optimization-of-baking-parameters-in-producing: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/58159-pro-tip-learn-how-to-implement-a-sourdough-fermentation-process: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.rondo-online.com/noram/en/automating-bakery-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['Automating artisanal bread making processes for small scale production', 'Yeast management systems for automated sourdough production in commercial bakeries', 'Optimizing commercial oven temperature control algorithms for large-scale bread baking with industrial scale sourdough starter automation']
+
+=== Iteration 9 ===
+Aggregated 23 unique links from this iteration.
+Fetching content from: https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/
+Fetching content from: https://www.bakingbusiness.com/articles/57446-new-ways-to-create-artisan-bread-at-scale
+Fetching content from: https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process
+Fetching content from: https://www.rondo-online.com/noram/en/automating-bakery-production
+Fetching content from: https://ezsoft-inc.com/artisanal-bakery-processing-lines/
+Fetching content from: https://in-bakery.com/balancing-tradition-and-innovation-for-artisan-bakers/
+Fetching content from: https://www.naegele-inc.com/2018/10/31/equipment-overview-a-complete-production-line-for-artisan-bread/
+Fetching content from: https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11299062/how-to-mass-produce-artisanal-bread
+Fetching content from: https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant
+Fetching content from: https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/
+Fetching content from: https://www.youtube.com/watch?v=6xJM4a0ruig
+Fetching content from: https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise
+Fetching content from: https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html
+Fetching content from: https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/
+Fetching content from: https://www.thefreshloaf.com/node/44659/planning-production-software
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/
+Fetching content from: https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://www.the-bread-code.io/book.pdf
+Fetching content from: https://elifesciences.org/articles/61644
+Jina fetch error for https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/artisanal-bakery-processing-lines/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.rondo-online.com/noram/en/automating-bakery-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/57446-new-ways-to-create-artisan-bread-at-scale: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.foodprocessing.com/product-development/bakery-baked-goods/article/11299062/how-to-mass-produce-artisanal-bread: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.thefreshloaf.com/node/44659/planning-production-software: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://in-bakery.com/balancing-tradition-and-innovation-for-artisan-bakers/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.naegele-inc.com/2018/10/31/equipment-overview-a-complete-production-line-for-artisan-bread/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.the-bread-code.io/book.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.youtube.com/watch?v=6xJM4a0ruig: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://elifesciences.org/articles/61644: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['Automating artisanal bread making processes for industrial scale production', 'Yeast management systems for automated sourdough production in commercial bakeries', 'Optimizing commercial oven temperature control algorithms for large-scale bread baking with industrial scale sourdough starter automation']
+
+=== Iteration 10 ===
+Aggregated 22 unique links from this iteration.
+Fetching content from: https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/
+Fetching content from: https://mixing-experts.com/artisan-bread-large-scale/
+Fetching content from: https://www.supermarketperimeter.com/articles/8750-baking-industry-leaders-share-how-to-make-artisan-bread-to-scale
+Fetching content from: https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/
+Fetching content from: https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production
+Fetching content from: https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf
+Fetching content from: https://ezsoft-inc.com/artisanal-bakery-processing-lines/
+Fetching content from: https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process
+Fetching content from: https://amfbakery.com/news-insights/scaling-bakery-production-with-automated-mixing/
+Fetching content from: https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant
+Fetching content from: https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/
+Fetching content from: https://www.youtube.com/watch?v=6xJM4a0ruig
+Fetching content from: https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise
+Fetching content from: https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/
+Fetching content from: https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html
+Fetching content from: https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/
+Fetching content from: https://www.thefreshloaf.com/node/44659/planning-production-software
+Fetching content from: https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/
+Fetching content from: https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-
+Fetching content from: https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html
+Fetching content from: https://www.the-bread-code.io/book.pdf
+Fetching content from: https://elifesciences.org/articles/61644
+Jina fetch error for https://carlislebakery.com/the-perfect-proof-yeast-and-fermentation-techniques-in-us-bakeries.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/46737-automating-the-artisan-process: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://amfbakery.com/news-insights/scaling-bakery-production-with-automated-mixing/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.supermarketperimeter.com/articles/8750-baking-industry-leaders-share-how-to-make-artisan-bread-to-scale: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://bakingbiscuit.com/how-to-scale-up-artisan-bread-production/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.readingthermal.com/resources/commercial-oven-temperature-profiling-optimization-of-the-baking-process.html: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.puratos.com/blog/how-to-bake-sourdough-on-an-industrial-scale-: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/automation-of-bakery-production-can-you-execute-authentic-recipes-and-complex-processes/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.the-bread-code.io/book.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.inoxpausa.com/case-studies/bakery-industry/sourdough-production-plant: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://lenexamc.com/2022/03/can-you-automate-the-production-of-artisan-bread/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakingbusiness.com/articles/60316-automating-artisan-fermentation-without-compromise: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.naegele-inc.com/wp-content/uploads/2020/06/Naegele-automating-industrial-bakery-production-web.pdf: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://forums.egullet.org/topic/113876-sourdough-and-adding-commercial-yeast/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.hopi-consulting.com/en/a-closer-look-at-sourdough-and-the-company-zeppelin-systems/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://mixing-experts.com/artisan-bread-large-scale/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.youtube.com/watch?v=6xJM4a0ruig: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.thefreshloaf.com/node/44659/planning-production-software: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://elifesciences.org/articles/61644: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.bakemag.com/articles/16820-how-automation-is-changing-the-face-of-bread-production: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://www.reddit.com/r/Breadit/comments/1116u2o/do_you_think_sourdough_influencers_cheat_by/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+Jina fetch error for https://ezsoft-inc.com/artisanal-bakery-processing-lines/: 402 - {"data":null,"code":402,"name":"InsufficientBalanceError","status":40203,"message":"Account balance not enough to run this query, please recharge.","readableMessage":"InsufficientBalanceError: Account balance not enough to run this query, please recharge."}
+No useful contexts were found in this iteration.
+LLM provided new search queries: ['Automating artisanal bread making processes for small scale production', 'Yeast management systems for automated sourdough production in commercial bakeries', 'Optimizing commercial oven temperature control algorithms for large-scale bread baking with industrial scale sourdough starter automation']
